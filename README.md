@@ -1,6 +1,5 @@
 ## olá! Eu sou o Ricardo Furlanetto 😁
 
-- 💻 Estou em busca de um novo emprego.
 - 📚 Estudando front-end.
 
 ##
