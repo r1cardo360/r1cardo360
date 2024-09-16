@@ -22,6 +22,3 @@
 <a href="https://www.linkedin.com/in/ricardo-furlanetto-65641518a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/ricardo_furlanetto/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
-
-
-![snake gif](https://github.com/r1cardo360/r1cardo360/blob/output/github-contribution-grid-snake.svg)
