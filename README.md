@@ -1,8 +1,8 @@
 ## olá! Eu sou o Ricardo Furlanetto 😁
 
-- 📚 Ciências da Computação (Em andamento).
-- ✔ HTML5, CSS3, JavaScript (Básico, Intermediário).
-- 👓 Django e inglês (Aprendendo).
+- 📚 Ciências da Computação (Em andamento) 4º Semestre.
+- ✔  Front-End (HTML5, CSS3, JavaScript, Bootstrap-5).
+- 👓 Back-end (NodeJS, Sequelize, Express, .AspNet).
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1cardo360&show_icons=true&count_private=true&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1cardo360&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
